@@ -1,0 +1,24 @@
+{
+    "AS_Button_cba560d6b6e640b29ccc8516aa61c0f4": {
+        "id": "AS_Button_cba560d6b6e640b29ccc8516aa61c0f4",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmHome",
+            "type": "forms",
+            "platform": "",
+            "KUID": "fdd14f6e092d4c39bfba8435182d0714"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__d2557c3936da43dcabdc9b8e9908318d",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "var navToTrack = new kony.mvc.Navigation(\"frmTrack\");\nnavToTrack.navigate();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

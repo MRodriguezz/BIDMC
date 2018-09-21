@@ -1,0 +1,23 @@
+{
+    "AS_FlexContainer_f021b077f63e4a03a6f21b2755f3b7d3": {
+        "id": "AS_FlexContainer_f021b077f63e4a03a6f21b2755f3b7d3",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmTrack",
+            "type": "forms",
+            "platform": null,
+            "KUID": "a73549d59565458692dddfe09f7dab6e"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_e84ac3835b3d4010865091bda27763d1",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "var navToHome = new kony.mvc.Navigation(\"frmHome\");\nnavToHome.navigate();",
+            "callbackType": null
+        }]
+    }
+}

@@ -1,0 +1,177 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_bounces_": false,
+    "_data_": [
+        [
+            {
+                "lblBeaconTagNumHeader": {
+                    "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                    "text": "Beacon Tag Number"
+                }
+            },
+            [
+                {
+                    "imgRemoveMRNNum": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "remove.png"
+                    },
+                    "lblBeaconTagNum": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "MRN 2234554"
+                    },
+                    "lblLine": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": ""
+                    }
+                },
+                {
+                    "imgRemoveMRNNum": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "remove.png"
+                    },
+                    "lblBeaconTagNum": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "MRN 2234554"
+                    },
+                    "lblLine": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": ""
+                    }
+                },
+                {
+                    "imgRemoveMRNNum": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "remove.png"
+                    },
+                    "lblBeaconTagNum": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "MRN 2234554"
+                    },
+                    "lblLine": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": ""
+                    }
+                },
+                {
+                    "imgRemoveMRNNum": {
+                        "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                        "src": "remove.png"
+                    },
+                    "lblBeaconTagNum": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": "MRN 2234554"
+                    },
+                    "lblLine": {
+                        "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                        "text": ""
+                    }
+                }
+            ]
+        ]
+    ],
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_indicator_": "none",
+    "_left_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_top_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "autogrowmode": 1,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "counter": "03",
+    "focusedindex": null,
+    "focuseditem": null,
+    "groupcells": false,
+    "hasSections": true,
+    "id": "segDataDiassociate",
+    "ide_onRowClick": "AS_Segment_ff1e31cdf8414db6a1f69d8d6d5ddbb8",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iphone": {
+        "psp": {
+            "bounces": false,
+            "indicator": "none"
+        }
+    },
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "g56ccf655edd4eba854ef43d7c3fc22d",
+    "masterdata": {},
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "pageoffdotimage": "pageoffdot.png",
+    "pageondotimage": "pageondot.png",
+    "paginationconfig": {
+        "position": "bottom"
+    },
+    "parent": "flxContDiassociate",
+    "pf": "frmDiassociate",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainselection": false,
+    "rowTemplateId": "ce7b75487d8845fe9d45d6a00d5cd3c0",
+    "rowcounter": 3,
+    "rowfocusskin": "sfec7a3749e14a2a823e6bd91aeb79a1",
+    "rowskin": "s6f081eb2f9449c2ad8e041888a5f4ca",
+    "rowtemplate": "flxDiassociateData",
+    "screenlevelwidget": false,
+    "seccounter": 0,
+    "sectionHeaderTemplateId": "a4e7c96724cb4bc2a81a9334c845afe0",
+    "sectionheaderskin": "s8a80b7ab41d4c3dab3066e7c272b820",
+    "sectionheadertemplate": "flxDiassociateHeader",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": 0,
+    "selectionbehavior": "default",
+    "separatorcolor": "d6d9dd00",
+    "separatorrequired": true,
+    "showscrollbars": false,
+    "viewtype": "tableview",
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "flxContRemoveMRN": "flxContRemoveMRN",
+        "flxDataContDiassociate": "flxDataContDiassociate",
+        "flxDataHeaderDiassociate": "flxDataHeaderDiassociate",
+        "flxDiassociateData": "flxDiassociateData",
+        "flxDiassociateHeader": "flxDiassociateHeader",
+        "imgRemoveMRNNum": "imgRemoveMRNNum",
+        "lblBeaconTagNum": "lblBeaconTagNum",
+        "lblBeaconTagNumHeader": "lblBeaconTagNumHeader",
+        "lblLine": "lblLine"
+    },
+    "zindex": 1
+}

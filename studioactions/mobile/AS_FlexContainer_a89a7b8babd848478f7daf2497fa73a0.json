@@ -1,0 +1,17 @@
+{
+    "AS_FlexContainer_a89a7b8babd848478f7daf2497fa73a0": {
+        "id": "AS_FlexContainer_a89a7b8babd848478f7daf2497fa73a0",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_bfafbe3bc97b455d83d27fbf60791086",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "// Clean textbox content\nthis.view.tBoxMRNNumberText.text = \"\";",
+            "callbackType": null
+        }]
+    }
+}

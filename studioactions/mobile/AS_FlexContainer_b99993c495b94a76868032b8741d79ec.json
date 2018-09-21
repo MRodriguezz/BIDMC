@@ -1,0 +1,24 @@
+{
+    "AS_FlexContainer_b99993c495b94a76868032b8741d79ec": {
+        "id": "AS_FlexContainer_b99993c495b94a76868032b8741d79ec",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmDiassociate",
+            "type": "forms",
+            "platform": null,
+            "KUID": "fa4ca718f0b64a749912232503cfea49"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__a617964ed9cb41afb5453cd4892b9ac4",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.view.flxContShadowAlert.isVisible = false;",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

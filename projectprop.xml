@@ -1,0 +1,47 @@
+<properties>
+    <attributes name="appidkey" value="BIDMC"/>
+    <attributes name="mwaddrkey" value="192.168.56.1"/>
+    <attributes name="iospopuptransitioncorrection" value="true"/>
+    <attributes name="isNewAppWithRespectToAndroidPackageName" value="true"/>
+    <attributes name="andwearminsdkkey" value="7.1 (25)"/>
+    <attributes name="iphonebundleversionkey" value="1.0"/>
+    <attributes name="iosrespectimagesizecorrection" value="true"/>
+    <attributes name="andwearappversioncode" value="1"/>
+    <attributes name="ioscheckboxcorrection" value="true"/>
+    <attributes name="apppackagekey" value="com.orgname.BIDMC"/>
+    <attributes name="winmangotiletitlekey" value="BIDMC"/>
+    <attributes name="andtargetsdkkey" value="4.0 (14)"/>
+    <attributes name="win8displaynamekey" value="BIDMC"/>
+    <attributes name="android_allowselfsignedcertificates" value="None"/>
+    <attributes name="andweartargetsdkkey" value="7.1 (25)"/>
+    <attributes name="iphonebundleidentifierkey" value="com.kony.BIDMC"/>
+    <attributes name="appnamekey" value="BIDMC"/>
+    <attributes name="currentgaversion" value="8.2.0.v201804101424"/>
+    <attributes name="appversionkey" value="1.0.0"/>
+    <attributes name="project.type" value="js"/>
+    <attributes name="sessionmanager" value="Http Session Manager"/>
+    <attributes name="vendornamekey" value="KonyLabs"/>
+    <attributes name="appversioncode" value="1"/>
+    <attributes name="createdgaversion" value="8.2.0"/>
+    <attributes name="isDpScaleFactor" value="true"/>
+    <attributes name="iostextboxpaddingcorrection" value="true"/>
+    <attributes name="win6xj2meonlysupported" value="false"/>
+    <attributes name="wp10displayname" value="BIDMC"/>
+    <attributes name="referenceWidth" value="375"/>
+    <attributes name="isNewAppWithRespectToAndroidWearPackageName" value="true"/>
+    <attributes name="build" value="debug"/>
+    <attributes name="studiovizproject" value="true"/>
+    <attributes name="marginsincludedinwidgetcontainerweight" value="true"/>
+    <attributes name="mwportkey" value="80"/>
+    <attributes name="andwearapppackagekey" value="com.orgname.BIDMC"/>
+    <attributes name="mwhttpsportkey" value="443"/>
+    <attributes name="APPLICATION_THEME" value="default"/>
+    <attributes name="SELECTED_THEME" value="default"/>
+    <attributes name="lastmodifiedtime" value="0"/>
+    <attributes name="Server side mobile web" value="false"/>
+    <attributes name="cloud_url" value=""/>
+    <attributes name="cloud_env_name" value=""/>
+    <attributes name="cloud_env_GUID" value=""/>
+    <attributes name="cloud_account_id" value=""/>
+    <attributes name="cloud_account_guid" value=""/>
+</properties>

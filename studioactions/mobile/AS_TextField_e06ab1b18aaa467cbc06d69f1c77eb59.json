@@ -1,0 +1,27 @@
+{
+    "AS_TextField_e06ab1b18aaa467cbc06d69f1c77eb59": {
+        "id": "AS_TextField_e06ab1b18aaa467cbc06d69f1c77eb59",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "changedtext"
+        }],
+        "contextObj": {
+            "name": "frmAssociate",
+            "type": "forms",
+            "platform": null,
+            "KUID": "de41459b79374997bd6bfca6ad3e3084"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__ec0892a487ac4ecfb36b589b1cbd5a47",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.view.flxBtnBeaconClose.isVisible = true;",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

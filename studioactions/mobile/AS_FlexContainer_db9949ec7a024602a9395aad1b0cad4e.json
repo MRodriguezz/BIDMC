@@ -1,0 +1,23 @@
+{
+    "AS_FlexContainer_db9949ec7a024602a9395aad1b0cad4e": {
+        "id": "AS_FlexContainer_db9949ec7a024602a9395aad1b0cad4e",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmTrack",
+            "type": "forms",
+            "platform": null,
+            "KUID": "a73549d59565458692dddfe09f7dab6e"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_ec8b2abcc6b94f30a397d81201249073",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "this.view.flxContShadowAlert.isVisible = false;",
+            "callbackType": null
+        }]
+    }
+}

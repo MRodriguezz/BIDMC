@@ -1,0 +1,17 @@
+{
+    "AS_Button_jcb8369a11234f239a37a9e673be19d5": {
+        "id": "AS_Button_jcb8369a11234f239a37a9e673be19d5",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_d13a5ddfb7214e11b1b5f801930da474",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "var navToHome = new kony.mvc.Navigation(\"frmHome\");\nnavToHome.navigate();",
+            "callbackType": null
+        }]
+    }
+}
